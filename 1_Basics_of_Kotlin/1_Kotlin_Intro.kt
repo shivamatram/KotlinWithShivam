@@ -1,4 +1,4 @@
-package com.example.kotlinseriestrial.`1_Basics_of_Kotlin`
+package com.example.kotlinseriestrial
 
 
 
